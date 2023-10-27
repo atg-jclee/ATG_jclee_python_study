@@ -17,6 +17,7 @@ pipeline {
                 // sh 'pip install -r requirements.txt'
                 // sh 'pyinstaller -w -F src/OPCUAtoPostgres.py'
                 // stash(name: 'built-binary', includes: 'dist/OPCUAtoPostgres')
+                sh 'echo hello'
             }
             // post {
             //     success {
