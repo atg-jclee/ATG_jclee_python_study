@@ -15,7 +15,7 @@ pipeline {
             }
             steps {
                 // sh 'pip install -r requirements.txt'
-                sh 'pip instsall pyinstaller'
+                sh 'pip install pyinstaller'
                 sh 'pyinstaller -w -F test.py'
                 stash(name: 'built-binary', includes: 'dist/test')
             }
