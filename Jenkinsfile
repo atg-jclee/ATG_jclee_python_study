@@ -13,11 +13,11 @@ pipeline {
                     args '-u root:root'
                 }
             }
-            // steps {
+            steps {
                 // sh 'pip install -r requirements.txt'
                 // sh 'pyinstaller -w -F src/OPCUAtoPostgres.py'
                 // stash(name: 'built-binary', includes: 'dist/OPCUAtoPostgres')
-            // }
+            }
             // post {
             //     success {
             //         archiveArtifacts "dist/OPCUAtoPostgres"
