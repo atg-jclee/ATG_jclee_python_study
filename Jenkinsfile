@@ -9,7 +9,7 @@ pipeline {
         stage('Build') {
             agent {
                 docker {
-                    image 'ubuntu:20.04'
+                    image 'python:3.8.12-buster'
                     args '-u root:root'
                 }
             }
