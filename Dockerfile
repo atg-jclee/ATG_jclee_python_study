@@ -1,3 +1,3 @@
 FROM ubuntu:20.04
-# COPY /dist .
+COPY /dist .
 ENTRYPOINT ["./test"] 
