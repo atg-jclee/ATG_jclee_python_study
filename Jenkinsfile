@@ -15,15 +15,15 @@ pipeline {
             }
             steps {
                 // sh 'pip install -r requirements.txt'
-                // sh 'pyinstaller -w -F src/OPCUAtoPostgres.py'
-                // stash(name: 'built-binary', includes: 'dist/OPCUAtoPostgres')
-                sh 'echo hello'
+                sh 'pip instsall pyinstaller'
+                sh 'pyinstaller -w -F test.py'
+                stash(name: 'built-binary', includes: 'dist/test')
             }
-            // post {
-            //     success {
-            //         archiveArtifacts "dist/OPCUAtoPostgres"
-            //     }
-            // }
+            post {
+                success {
+                    archiveArtifacts "dist/test"
+                }
+            }
         }
 
         stage('Build-Image') {
