@@ -15,7 +15,9 @@ pipeline {
             }
             steps {
                 // sh 'pip install -r requirements.txt'
+                sh 'pip install jupyter'
                 sh 'pip install pyinstaller'
+                sh 'jupyter nbconvert --to script test.ipynb'
                 sh 'pyinstaller -w -F test.py'
                 stash(name: 'built-binary', includes: 'dist/test')
             }
