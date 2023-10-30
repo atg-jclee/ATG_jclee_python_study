@@ -42,7 +42,7 @@ pipeline {
                     // docker.withRegistry("https://registry.atg.re.kr", "registry-auth") {
                     docker.withRegistry("https://218.155.189.106:5000", "registry-auth") {
                         app.push("${env.BUILD_NUMBER}")
-                        app.push("0.0.1")
+                        app.push("latest")
                     }
                 }
             }

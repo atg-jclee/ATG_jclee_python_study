@@ -1,3 +1,3 @@
 FROM ubuntu:20.04
-COPY /dist .
-ENTRYPOINT ["./test"] 
+COPY /dist/test /root/test
+ENTRYPOINT ["root/test"] 
