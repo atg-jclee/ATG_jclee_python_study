@@ -1,9 +1,9 @@
 pipeline {
-    environment {
+    // environment {
         // registry = "https://registry.atg.re.kr"
-        registry = "218.155.189.106:5000"
-        registry_credentials = "registry-auth"
-    }
+        // registry = "218.155.189.106:5000"
+        // registry_credentials = "registry-auth"
+    // }
     agent none
     stages {
         stage('Build') {
