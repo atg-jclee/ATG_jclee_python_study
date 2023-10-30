@@ -1,22 +1,22 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[6]:
+# In[1]:
 
 
 import time
-import asyncio
 
 
-# In[7]:
+# In[2]:
 
 
 def print_current_time() :
     print(f"Now : {time.strftime('%X')}")
+    print('jenkins CI test2')
     time.sleep(1)
 
 
-# In[8]:
+# In[3]:
 
 
 def main():
@@ -25,7 +25,7 @@ def main():
         print_current_time()
 
 
-# In[9]:
+# In[4]:
 
 
 if __name__ == '__main__':
