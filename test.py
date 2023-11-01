@@ -12,7 +12,7 @@ import time
 
 def print_current_time() :
     print(f"Now : {time.strftime('%X')}")
-    print('jenkins CI test2')
+    print('jenkins CI test4444')
     time.sleep(1)
 
 
