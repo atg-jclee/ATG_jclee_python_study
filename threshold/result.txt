@@ -1,0 +1,178 @@
+
+ds
+D:\app\hn_ds\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_5_1.pkl
+lower_threshold_1 : 0.003000000000000058
+upper_threshold_1 : 1.331
+D:\app\hn_ds\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_6_1.pkl
+lower_threshold_1 : 0.06000000000000011
+upper_threshold_1 : 1.3719999999999999
+D:\app\hn_ds\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_5_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.2784999999999997
+D:\app\hn_ds\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_6_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.234
+
+gy
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_1\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4329999999999998
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_1\Y_threshold_Att_GRU_Set_base_1_2.pkl
+lower_threshold_1 : 0.008499999999999897
+upper_threshold_1 : 1.2525000000000002
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_1\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.341
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_1\Y_threshold_Att_GRU_Evaporation_1_2.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4895
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_2\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4329999999999998
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_2\Y_threshold_Att_GRU_Set_base_1_2.pkl
+lower_threshold_1 : 0.008499999999999897
+upper_threshold_1 : 1.2525000000000002
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_2\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.342
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_2\Y_threshold_Att_GRU_Evaporation_1_2.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4965000000000002
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_3\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4329999999999998
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_3\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.3445
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_4\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4329999999999998
+D:\app\hn_gy\src\aos_g\Model\pre\mdl_4\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.345
+
+hj
+D:\app\hn_hj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0.4045
+upper_threshold_1 : 1.3125
+D:\app\hn_hj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.9949999999999999
+
+is
+D:\app\hn_is\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.6030000000000002
+D:\app\hn_is\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.4500000000000002
+
+pj
+D:\app\hn_pj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0.13900000000000012
+upper_threshold_1 : 1.507
+D:\app\hn_pj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_2.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.6400000000000001
+
+so
+D:\app\hn_so\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 3.287
+
+wb
+D:\app\hn_wb\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_3_3.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.7744999999999997
+D:\app\hn_wb\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_4_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.3665
+D:\app\hn_wb\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_3_3.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.8820000000000001
+
+bw
+D:\app\hs_bw\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_2_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.986
+D:\app\hs_bw\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_2_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.81
+
+cu
+D:\app\hs_cu\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0.08550000000000002
+upper_threshold_1 : 2.3695
+
+sh
+D:\app\hs_sh\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.7414999999999998
+D:\app\hs_sh\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_2_1.pkl
+lower_threshold_1 : 0.006000000000000005
+upper_threshold_1 : 1.022
+D:\app\hs_sh\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 2.0035
+
+sj
+D:\app\hs_sj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_5_1.pkl
+lower_threshold_1 : 0.2274999999999997
+upper_threshold_1 : 2.4395000000000002
+D:\app\hs_sj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_5_2.pkl
+lower_threshold_1 : 0.275
+upper_threshold_1 : 2.011
+D:\app\hs_sj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_6_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.8850000000000002
+D:\app\hs_sj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_5_1.pkl
+lower_threshold_1 : 0.02399999999999991
+upper_threshold_1 : 0.7280000000000001
+D:\app\hs_sj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_5_2.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.764
+D:\app\hs_sj\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_6_1.pkl
+lower_threshold_1 : 0.01050000000000001
+upper_threshold_1 : 0.7505
+
+sn
+D:\app\hs_sn\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_3_1.pkl
+lower_threshold_1 : 0.0030000000000000027
+upper_threshold_1 : 1.883
+D:\app\hs_sn\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_4_1.pkl
+lower_threshold_1 : 0.14200000000000013
+upper_threshold_1 : 1.7739999999999998
+D:\app\hs_sn\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_3_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 1.1125
+D:\app\hs_sn\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_4_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.9950000000000001
+
+by
+
+dh
+D:\app\ys_dh\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0.4045
+upper_threshold_1 : 1.3125
+D:\app\ys_dh\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.9949999999999999
+
+dj
+
+hs
+D:\app\ys_hs\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0.5895000000000001
+upper_threshold_1 : 1.4815
+D:\app\ys_hs\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_2_1.pkl
+lower_threshold_1 : 0.5894999999999999
+upper_threshold_1 : 1.4095000000000002
+
+pl
+D:\app\ys_pl\src\aos_g\Model\pre\Y_threshold_Att_GRU_Set_base_1_1.pkl
+lower_threshold_1 : 0.4045
+upper_threshold_1 : 1.3125
+D:\app\ys_pl\src\aos_g\Model\pre\Y_threshold_Att_GRU_Evaporation_1_1.pkl
+lower_threshold_1 : 0
+upper_threshold_1 : 0.9949999999999999
